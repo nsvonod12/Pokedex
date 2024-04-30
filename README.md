@@ -19,4 +19,8 @@
 ScreenShot:
 ![image](https://github.com/nsvonod12/Pokedex/assets/80986742/987993e2-5bd7-4528-b50d-a1f30480d09f)
 
+Stats:
+![image](https://github.com/nsvonod12/Pokedex/assets/80986742/505aedca-bc46-4249-a37c-9d09cfe29338)
+
+
 
